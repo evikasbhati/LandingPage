@@ -1,0 +1,37 @@
+.slide_container{
+    width: 100%;
+    height: 32rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slide1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 69rem;
+    height: 100%;
+}
+.slide{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 0.5rem solid white;
+}
+.img_slide{
+    padding-bottom: 0.5rem;
+    height: 30rem;
+    width: 22rem;
+}
+.arrow_button{
+    width: 3.5rem;
+    height: 3.5rem;
+    border: 0.0625rem solid rgb(203, 201, 201);
+    box-shadow: 0rem 0rem 1.5rem -0.5rem;
+    border-radius: 4rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
