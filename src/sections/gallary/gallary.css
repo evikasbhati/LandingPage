@@ -34,6 +34,7 @@
     grid-template-columns: repeat(2,1fr);
     grid-template-rows: repeat(2,1fr);
     gap: 0.5rem;
+    box-shadow: 0px 0px 100px -10px;
 }
 .img_1{
     grid-column: 1/-1;

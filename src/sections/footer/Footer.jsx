@@ -184,7 +184,7 @@ const Footer = () => {
             <h4  style={{fontWeight:100,fontSize:"0.9rem"}}>&#169; 2022 | Real Estate & Luxury Homes</h4>
             <span style={{ marginRight: "5px" }}>
               Site created by 
-              <span style={{ cursor: "pointer" }}> WebMatriks Technologies</span>
+              <span style={{ cursor: "pointer" }}> Not a company</span>
             </span>
           </CopyRightItems>
         </CopyRight>

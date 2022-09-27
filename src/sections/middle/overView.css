@@ -34,6 +34,7 @@
 .overViewImg{
     width: 42rem;
     height: 28rem;
+    box-shadow: 0px 0px 100px -10px;
     grid-row:1/-1  ;
     grid-column: 2/-1;
     justify-self: center;
@@ -44,6 +45,7 @@
     background-image: url('https://images.unsplash.com/photo-1476703993599-0035a21b17a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
     background-size: cover;
     background-repeat: no-repeat;
+    box-shadow: 0px 0px 100px -10px;
 }
 .living_space_box{
     position: relative;
@@ -55,6 +57,7 @@
     padding: 0.5rem 3rem 2rem 3rem;
     grid-template-rows:0.5fr 0.5fr 0.25fr 0.5fr 1fr 0.5fr ;
     background-color: #2b4055;
+    box-shadow: 0px 0px 100px -10px;
 }
 .spaces_heading{
     color: #47acd1;

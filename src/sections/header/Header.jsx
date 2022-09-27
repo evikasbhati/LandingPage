@@ -23,7 +23,7 @@ const handleHamburger = () => {
         <div className="top_container">
           <div className="house">
             <img src={logo} alt='logo' className="houseLogo" />
-            <h3 className="logo_heading">ACC INFRA</h3>
+            <h3 className="logo_heading">ABC INFRA</h3>
             <h6 className="logo_heading"> Let your dream be our project</h6>
             </div>
           <Menu className="menu" handleHamburger={handleHamburger} access={menuAccess} />
